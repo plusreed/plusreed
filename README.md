@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Reed
+
+I'm a full-stack dev who works in Node.js.
+
+Pronouns: He/they 🙂
 
 <!--
 **plusreed/plusreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
