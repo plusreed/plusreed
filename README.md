@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Reed.
 
-I'm a 19 year old full-stack developer who mainly programs in Node.js.
+I'm a 20 year old full-stack developer who mainly programs in Node.js.
 
 Pronouns: He/they 🙂
 
