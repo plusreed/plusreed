@@ -1,12 +1,14 @@
 ### Hi there 👋 I'm Reed.
 
-I'm a 20 year old full-stack developer who mainly programs in Node.js.
+I'm a 20 year old full-stack developer.
+
+I mainly work with TypeScript/JavaScript (browser and Node.js), HTML/CSS, React, etc.
 
 Pronouns: He/they 🙂
 
 How to reach me:
 * Telegram: [@reedwtf](https://t.me/reedwtf)
-* Email: reed AT plusreed DOT com, or reed AT reed DOT wtf
+* Email: [reed@reed.wtf](mailto:reed@reed.wtf)
 * Twitter: [@PlusReed_](https://twitter.com/plusreed_)
 
 <!--
